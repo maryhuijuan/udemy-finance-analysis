@@ -28,8 +28,6 @@ bar chart (image_6538c6.png) shows the Premium tier holds a solid 3.9 mean ratin
 
 Summary: The "Niche Expert" Market Strategy
 
-If you were presenting this to a stakeholder, here is your 3-step strategy based strictly on your data:
-
 1. Seed with Free, Scale with Paid: Use a free "Intro" course to build that initial 0.78 correlation (reviews/subscribers) quickly.
 
 2. Target the Premium Tier: Once you have 50+ reviews, move the course to the Premium price group. Your data shows this group maintains high satisfaction ($3.9$ rating).
