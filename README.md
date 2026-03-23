@@ -30,8 +30,8 @@ Summary: The "Niche Expert" Market Strategy
 
 If you were presenting this to a stakeholder, here is your 3-step strategy based strictly on your data:
 
-Seed with Free, Scale with Paid: Use a free "Intro" course to build that initial 0.78 correlation (reviews/subscribers) quickly.
+1. Seed with Free, Scale with Paid: Use a free "Intro" course to build that initial 0.78 correlation (reviews/subscribers) quickly.
 
-Target the Premium Tier: Once you have 50+ reviews, move the course to the Premium price group. Your data shows this group maintains high satisfaction ($3.9$ rating).
+2. Target the Premium Tier: Once you have 50+ reviews, move the course to the Premium price group. Your data shows this group maintains high satisfaction ($3.9$ rating).
 
-Optimize for Results, Not Length: Stop adding lectures just to make the course "longer." Focus on the Engagement Rate (reviews/subscribers) by keeping content tight and actionable.
+3. Optimize for Results, Not Length: Stop adding lectures just to make the course "longer." Focus on the Engagement Rate (reviews/subscribers) by keeping content tight and actionable.
