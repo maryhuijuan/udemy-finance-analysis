@@ -22,7 +22,9 @@ The market is top-heavy, dominated by a few outliers. To succeed without a massi
 <img width="683" height="421" alt="download" src="https://github.com/user-attachments/assets/20a385f4-3726-4a87-b67f-fb020c515bd0" />
 <img width="640" height="304" alt="download" src="https://github.com/user-attachments/assets/a219d3a1-2634-4c47-a473-0041d74a943e" />
 <img width="683" height="421" alt="download" src="https://github.com/user-attachments/assets/9ac728e7-1320-4eb9-80c7-7abeda1d934d" />
+
 bar chart (image_6538c6.png) shows the Premium tier holds a solid 3.9 mean rating.What it means: Students are willing to pay more if the perceived value is there. High prices don't automatically lead to bad reviews due to high expectations, provided the content is professional.The Strategy: Don't race to the bottom.Action: Instead of discounting a course to $9.99$ to compete with the "Outliers," keep a "Premium" price point ($100+$) but include high-value downloads (checklists, Python scripts, templates). The error bar on your chart shows this satisfaction is consistent.
+
 
 Summary: The "Niche Expert" Market Strategy
 If you were presenting this to a stakeholder, here is your 3-step strategy based strictly on your data:
